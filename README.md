@@ -19,7 +19,6 @@ Official PyTorch implementation for the paper:
 - Python 3.7+
 - Pytorch 1.6.0
 - CUDA 10.2
-- apex
 
 Create environment:
 
@@ -32,6 +31,7 @@ Other necessary packages:
 pip install -r FGN_requirements.txt
 ```
 
+[apex](https://github.com/NVIDIA/apex) needs to be installed in the environment
 
 
 
