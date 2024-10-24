@@ -31,7 +31,7 @@ Other necessary packages:
 pip install -r FGN_requirements.txt
 ```
 
-[apex](https://github.com/NVIDIA/apex) needs to be installed in the environment
+**[apex](https://github.com/NVIDIA/apex) needs to be installed in the environment**
 
 
 
