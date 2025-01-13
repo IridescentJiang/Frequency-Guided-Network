@@ -64,7 +64,13 @@ sh ./scripts/eval_teeth_mask_deeplab_r50_decouple.sh
 
 If you find our code or paper useful, please consider citing：
 ```bibtex
-
+@INPROCEEDINGS{FrequencyGuidedNet,
+  author={Jiang, Yiming and Song, Wenfeng and Li, Shuai and Yang, Yuming and Xia, Bin and Hao, Aimin and Qin, Hong},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={Frequency-Guided Network for Low-contrast Staining-free Dental Plaque Segmentation}, 
+  year={2024},
+  pages={4925-4932}
+}
 ```
 
 
